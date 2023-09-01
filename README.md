@@ -1,4 +1,4 @@
-# 2023 Camp repo with angular and vanilla projects
+# 2023 Internship
 Monorepo with Angular, Vanilla TS projects for JS camp. Created with [Nx](https://nx.dev/).
 ## Installation
 
