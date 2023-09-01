@@ -1,5 +1,6 @@
 # 2023 Internship
-Monorepo with Angular, Vanilla TS projects for JS camp. Created with [Nx](https://nx.dev/).
+Monorepo with Angular, Vanilla TS projects from 2023 summer internship.
+Created with [Nx](https://nx.dev/).
 ## Installation
 
 `npm install` to install all required dependencies.
