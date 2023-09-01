@@ -1,7 +1,5 @@
-# saritasa-frontend-boilerplate-camp
-
-Monorepo with Angular, React, Vanilla TS boilerplates for JS camp. Created with [Nx](https://nx.dev/). Update project name and description, when you start working on your own project.
-
+# 2023 Camp repo with angular and vanilla projects
+Monorepo with Angular, Vanilla TS projects for JS camp. Created with [Nx](https://nx.dev/).
 ## Installation
 
 `npm install` to install all required dependencies.
@@ -47,7 +45,6 @@ Workspace consists of applications and libraries. A lib contains the actual logi
 ### Applications
 
 - [Vanilla](apps/vanilla/README.md)
-- [React](apps/react/README.md)
 - [Angular](apps/angular/README.md)
 
 ### Libraries
