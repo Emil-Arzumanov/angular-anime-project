@@ -1,5 +1,5 @@
 # 2023 Internship
-Monorepo with Angular, Vanilla TS projects from 2023 summer internship.
+Monorepo with Angular, Vanilla TS solo projects from 2023 summer internship.
 Created with [Nx](https://nx.dev/).
 ## Installation
 
