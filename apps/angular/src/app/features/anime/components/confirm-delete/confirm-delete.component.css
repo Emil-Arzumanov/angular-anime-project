@@ -1,0 +1,12 @@
+:host {
+  display: grid;
+  gap: 10px;
+  background: #fff;
+  border-radius: 8px;
+  padding: 16px;
+}
+
+.message {
+  max-width: 300px;
+  max-height: 300px;
+}

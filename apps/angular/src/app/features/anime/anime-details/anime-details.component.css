@@ -1,0 +1,52 @@
+.header {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.buttons {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding-bottom: 10px;
+}
+
+.image-box {
+  padding: 10px 0;
+  width: 100%;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-box__image {
+  max-width: 300px;
+  max-height: 300px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.trailer-box {
+  padding: 10px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.trailer-box__trailer {
+  width: 1280px;
+  aspect-ratio: 16 / 9;
+  border: none;
+}
+
+.details {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.details__row {
+  width: 50%;
+  align-items: stretch;
+  gap: 10px;
+  display: grid;
+}

@@ -1,0 +1,9 @@
+.header {
+  display: grid;
+  gap: 5px;
+  padding-bottom: 10px;
+}
+
+.mat-mdc-raised-button.active-link {
+  color: #6d42ba;
+}

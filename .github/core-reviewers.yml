@@ -1,0 +1,9 @@
+reviewers:
+  # The default core reviewers.
+  # Reviews may only be requested from collaborators.
+  defaults:
+    - SofyaKirillova
+    - irina-baleevskih-saritasa
+    - artem-sotnichenko-saritasa
+    - pavel-romanov8
+    - TienLuu-Saritasa  
